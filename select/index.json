@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハダ色の日々",
+  "base_artist": "MOROHA",
+  "createdAt": "2026-03-06T18:03:31.536953Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハダ色の日々",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_ハダ色の日々_MOROHA.txt"
+    }
+  ]
+}
